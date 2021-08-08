@@ -1,8 +1,8 @@
 require('babel-register');
 require('babel-polyfill');
-// require('dotenv').config();
+require('dotenv').config();
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const privateKeys = ['0x807dc5970391014249257fdd0de5c8b8952d6cb7e735e664d43e5170f28e49e5'];
+const privateKeys = process.env["PRIV_KEY"];
 // const INFURA_KEY = process.env["INFURA_API_KEY"]
 // const URL = 'https://rinkeby.infura.io/v3/' + INFURA_KEY;
 
