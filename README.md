@@ -1,6 +1,6 @@
 # dBank
-DeFi Bank Dapp built on Ethereum smart contracts using Solidity
+### DeFi (Decentralised Finance) Bank Dapp built on Ethereum smart contracts using Solidity
 
-- [Access the D-App UI here](https://itznishant.github.io/dBank/)
+- [Access & Interact with the DApp UI!](https://itznishant.github.io/dBank/)
 
-- [Personal portfolio](https://itznishant.github.io)
+- [Access my Web-Portfolio](https://itznishant.github.io)
