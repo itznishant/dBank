@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dBank/static/css/main.d1edde73.chunk.css",
+    "main.css": "/dBank/static/css/main.07f4b616.chunk.css",
     "main.js": "/dBank/static/js/main.a868df37.chunk.js",
     "main.js.map": "/dBank/static/js/main.a868df37.chunk.js.map",
     "runtime-main.js": "/dBank/static/js/runtime-main.e0b4889a.js",
@@ -9,10 +9,10 @@
     "static/js/2.054e9184.chunk.js": "/dBank/static/js/2.054e9184.chunk.js",
     "static/js/2.054e9184.chunk.js.map": "/dBank/static/js/2.054e9184.chunk.js.map",
     "index.html": "/dBank/index.html",
-    "precache-manifest.fb5b69102b0b3e438ca5daa66242df87.js": "/dBank/precache-manifest.fb5b69102b0b3e438ca5daa66242df87.js",
+    "precache-manifest.fd5012ccd8a7f4719e57c127d70ac884.js": "/dBank/precache-manifest.fd5012ccd8a7f4719e57c127d70ac884.js",
     "service-worker.js": "/dBank/service-worker.js",
     "static/css/2.5dcc52c6.chunk.css.map": "/dBank/static/css/2.5dcc52c6.chunk.css.map",
-    "static/css/main.d1edde73.chunk.css.map": "/dBank/static/css/main.d1edde73.chunk.css.map",
+    "static/css/main.07f4b616.chunk.css.map": "/dBank/static/css/main.07f4b616.chunk.css.map",
     "static/js/2.054e9184.chunk.js.LICENSE.txt": "/dBank/static/js/2.054e9184.chunk.js.LICENSE.txt",
     "static/media/defibank.png": "/dBank/static/media/defibank.c8d65b74.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.e0b4889a.js",
     "static/css/2.5dcc52c6.chunk.css",
     "static/js/2.054e9184.chunk.js",
-    "static/css/main.d1edde73.chunk.css",
+    "static/css/main.07f4b616.chunk.css",
     "static/js/main.a868df37.chunk.js"
   ]
 }

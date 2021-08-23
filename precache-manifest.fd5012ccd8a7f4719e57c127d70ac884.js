@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eebef1f2c1bd2c25960ef46513f31d9e",
+    "revision": "1618b9115934da0858bb2684a3f875cb",
     "url": "/dBank/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dBank/static/css/2.5dcc52c6.chunk.css"
   },
   {
-    "revision": "3df37d9ad1fbf2355869",
-    "url": "/dBank/static/css/main.d1edde73.chunk.css"
+    "revision": "6905306bc4b619fbab53",
+    "url": "/dBank/static/css/main.07f4b616.chunk.css"
   },
   {
     "revision": "252294621659e286b716",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dBank/static/js/2.054e9184.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3df37d9ad1fbf2355869",
+    "revision": "6905306bc4b619fbab53",
     "url": "/dBank/static/js/main.a868df37.chunk.js"
   },
   {
